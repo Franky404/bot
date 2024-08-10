@@ -2,7 +2,7 @@
   "name": "whatsapp-bot",
   "version": "2.0.0",
   "description": "Ya Macam Tu lh..🗿",
-  "main": "index
+  "main": "index,
   "engines": {
   "node": ">=14.0.0",
   "npm": ">=6.0.0"
